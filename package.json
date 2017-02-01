@@ -1,0 +1,19 @@
+{
+  "name": "nikita",
+  "version": "1.0.1",
+  "description": "A chat Bot",
+  "main": "app.js",
+  "dependencies": {
+    "botbuilder": "^3.5.4",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Hello World"
+  },
+  "keywords": [
+    "HR"
+  ],
+  "author": "Aparna",
+  "license": "ISC"
+}
